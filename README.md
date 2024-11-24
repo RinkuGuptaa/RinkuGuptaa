@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rinku Kumar Gupta</h1>
+<h1 align="center">Hi  <img height="40" width="50" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm4zdnpjaTQzeDdweXFjN2htZHhtNWE2czdobDRtbjFlOHA0MDRnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2MevupEaJcDhIOpRYz/giphy.gif">, I'm Rinku Kumar Gupta</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <p align="center">
     <img height="170" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm85ZXBscWdrano3MWxyMGVybDFqbGx5eTRuYXZpN2E4ZWhkcGdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF">
