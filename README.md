@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rinku Kumar Gupta</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-
+<p align="center">
+    <img height="170" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm85ZXBscWdrano3MWxyMGVybDFqbGx5eTRuYXZpN2E4ZWhkcGdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF">
+</p>
 - 🔭 I’m currently working on **Student portal website project**
 
 - 🌱 I’m currently learning **Nodejs, React**
